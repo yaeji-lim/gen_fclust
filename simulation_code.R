@@ -1,4 +1,4 @@
-source('~/Desktop/Papers/functional_clustering/functions_temp.R', chdir = TRUE)
+source('functions.R', chdir = TRUE)
 
 
 
