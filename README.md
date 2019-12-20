@@ -1,4 +1,4 @@
-R-Code for "A generalization of functional clustering for discrete multivariate longitudinal data"
+# R-Code for "A generalization of functional clustering for discrete multivariate longitudinal data"
 
 by Yaeji Lim, Ying Kuen Cheung, and Hee-Seok Oh, Dec 2019.
 
